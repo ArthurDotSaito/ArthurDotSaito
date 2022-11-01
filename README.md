@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arthur Saito</h1>
 
 <div id="headerImage" align="center">
-  <img src="https://media.giphy.com/media/Gf5QiP1TWCO8qYKmt7/giphy.gif" width="100px"/>
+  <img src="https://media.giphy.com/media/Gf5QiP1TWCO8qYKmt7/giphy.gif" width="300px"/>
 </div>
 
 - 👋 Hi, I’m Arthur Saito - This is my new Github profile, since the first got lost.
@@ -29,6 +29,12 @@
   </a>
   
  </p>
+ 
+ <h3 align="left">About:</h3>
+  <section align="center">
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurDotSaito&theme=dark&show_icons=true&count_private=true)
+  </section>
+  
 <!---
 ArthurDotSaito/ArthurDotSaito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
