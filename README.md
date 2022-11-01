@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arthur Saito</h1>
 
 <div id="headerImage" align="center">
-  <img src="https://media.giphy.com/media/Gf5QiP1TWCO8qYKmt7/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/Gf5QiP1TWCO8qYKmt7/giphy.gif" width="100px"/>
 </div>
 
 - 👋 Hi, I’m Arthur Saito - This is my new Github profile, since the first got lost.
