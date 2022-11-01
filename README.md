@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arthur Saito</h1>
 
+<div id="headerImage" align="center">
+  <img src="https://media.giphy.com/media/Gf5QiP1TWCO8qYKmt7/giphy.gif" width="100"/>
+</div>
+
 - 👋 Hi, I’m Arthur Saito - This is my new Github profile, since the first got lost.
 - 👀 I’m most interested in ML projects, focused on CNN, NLP and time-series/Sequential models. I'm also interested on Web developtment with React.js and Node. 
 
