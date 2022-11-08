@@ -30,6 +30,18 @@
   <a href="https://www.tensorflow.org/?gclid=CjwKCAjwh4ObBhAzEiwAHzZYU7PCrasUMHS6246gEHu8i96BGAFtwCDzXJTPs96PkdAiEwvo4-etDRoCApIQAvD_BwE" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="35" height="35" />
   </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" alt="pytorch" width="35" height="35" />
+  </a>
+  <a href="https://www.ruby-lang.org/en/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="35" height="35" />
+  </a>
+  <a href="https://www.rust-lang.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" alt="rust" width="35" height="35" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="postgrees" width="35" height="35" />
+  </a>
   
  </p>
  
