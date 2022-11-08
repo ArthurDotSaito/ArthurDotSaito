@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arthur Saito</h1>
 
 <h3 align="center">Keep Moving Forward</h3>
-<div id="headerImage" align="center">
-  <img src="https://media.giphy.com/media/Gf5QiP1TWCO8qYKmt7/giphy.gif" width="300px"/>
-</div>
 
  <h3 align="left">About:</h3>
+<img src="https://media.giphy.com/media/Gf5QiP1TWCO8qYKmt7/giphy.gif" width="300px" align="right"/>
 <p>- 👋 Hi, I’m Arthur Saito - This is my new Github profile, since the first got lost.</p>
 <p>- 👀 I’m most interested in ML projects, focused on CNN, NLP and time-series/Sequential models. I'm also interested on Web developtment with React.js,Typrescript, Node.js.</p>
 <p>- 🐈 I like cats.</p>
@@ -36,7 +34,7 @@
  </p>
  
  <h3 align="left">Random Stuff:</h3>
- <div align="center">
+ <div align="left">
   
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurDotSaito&theme=dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
   
