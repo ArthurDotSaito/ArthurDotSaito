@@ -42,6 +42,9 @@
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" alt="postgrees" width="35" height="35" />
   </a>
+   <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="35" height="35" />
+  </a>
   
  </p>
  
