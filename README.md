@@ -45,6 +45,9 @@
    <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg" alt="mongodb" width="35" height="35" />
   </a>
+    <a href="https://expressjs.com/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="express" width="35" height="35" />
+  </a>
   
  </p>
  
