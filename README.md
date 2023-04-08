@@ -12,7 +12,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="[https://reactnative.dev](https://developer.mozilla.org/en-US/docs/Web/JavaScript)" target="_blank">
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35" />
+  </a>
+   <a href="[https://reactnative.dev](https://developer.mozilla.org/en-US/docs/Web/JavaScript)" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35" />
   </a>
   <a href="https://www.oracle.com/br/java/" target="_blank">
