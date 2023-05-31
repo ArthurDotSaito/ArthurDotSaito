@@ -2,16 +2,17 @@
 
 <h3 align="center">Keep Moving Forward</h3>
 
- <h3 align="left">About:</h3>
-<img src="https://media.giphy.com/media/Gf5QiP1TWCO8qYKmt7/giphy.gif" width="300px" align="right"/>
-<p>- 👋 Hi, I’m Arthur Saito - This is my new Github profile, since the first got lost.</p>
-<p>- 👀 I’m most interested in ML projects, focused on CNN, NLP and time-series/Sequential models. I'm also interested on Web developtment with React.js,Typrescript, Node.js.</p>
-<p>- 🐈 I like cats.</p>
+# Hello There :wave:
+Hey there! I'm Arthur Saito, your friendly neighborhood software developer with a knack for engineering. I'm constantly immersed in exciting projects, juggling lines of code like a pro. My specialty? Web development in Typescript, where I whip up stunning websites using all the cool frameworks like React, Express, and a bunch of others that make me do a happy dance. But hold on to your hats because it doesn't stop there! I've got a soft spot for Natural Language Processing with TensorFlow, diving into the fascinating world of machine communication. And when I'm feeling adventurous, I plunge into the realms of Interactive Graphics using openGL. So, whether it's coding or conjuring digital magic, I'm your go-to guy. Let's rock this digital realm together!
 
+# Quick Overview
 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+ <div>
+ <h4>GitHub stats</h4>
+ 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurDotSaito&theme=dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+ <h4>Languages </h4>
+ <p >
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35" />
   </a>
@@ -53,13 +54,16 @@
   </a>
   
  </p>
- 
- <h3 align="left">Random Stuff:</h3>
- <div align="left">
   
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurDotSaito&theme=dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-  
- </div>
+</div>
+
+## Contact me
+
+Feel free to reach out to me using any of the following options:
+
+- [![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:arthur-saito@outlook.com)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arthur-saito-398488120/)
+
 <!---
 ArthurDotSaito/ArthurDotSaito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
