@@ -59,8 +59,8 @@ Hey there! I'm Arthur Saito, your friendly neighborhood software developer with 
 
 Feel free to reach out to me using any of the following options:
 
-- [![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:arthur-saito@outlook.com)
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arthur-saito-398488120/)
+[![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:arthur-saito@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arthur-saito-398488120/)
 
 <!---
 ArthurDotSaito/ArthurDotSaito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
