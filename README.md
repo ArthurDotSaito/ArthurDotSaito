@@ -1,7 +1,7 @@
 <h1 align="center">Keep Moving Forward</h1>
 
 # Hello There :wave:
-Hey there! I'm Arthur Saito, your friendly software developer with a knack for engineering (I'm a mechanical engineer!). I'm constantly immersed in exciting projects, juggling a few lines of code. My specialty? Web development (FullStack) in Typescript and Node, where I whip up stunning websites using all the cool frameworks like React, Express, Next and a bunch of others that make me do a happy dance. I also have a soft spot for Natural Language Processing with TensorFlow, delving into the mesmerizing realm of machine communication. And when I'm feeling adventurous, I take the plunge into the captivating world of Interactive Graphics using openGL. Whether it's coding or conjuring digital enchantment, I am your trusted partner in this exciting digital realm.
+Hey there! I'm Arthur Saito, your friendly software developer with a knack for engineering (I'm a mechanical engineer!). I'm constantly immersed in exciting projects, juggling a few lines of code. My specialty? Web development (FullStack) in Typescript and Node, where I whip up stunning websites using all the cool frameworks like React, Express, Next and a bunch of others. I also have a soft spot for Natural Language Processing with TensorFlow, delving into the mesmerizing realm of machine communication. And when I'm feeling adventurous, I take the plunge into the captivating world of Interactive Graphics using openGL. Whether it's coding or conjuring digital enchantment, I am your trusted partner in this exciting digital realm.
 
 # Quick Overview
 
