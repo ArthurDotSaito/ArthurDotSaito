@@ -4,7 +4,7 @@
 Hey there! I'm Arthur Saito, a software developer and engineer (I'm mechanical engineer!). As a tech enthusiast, I am always immersed in thrilling projects and constantly exploring various technologies. You'll often find me juggling multiple lines of code, eager to tackle new challenges and create innovative solutions.
 
 # 🚀 Expertise 
-I am an experienced full-stack developer specializing in JavaScript development with TypeScript and Node.js. I have a strong command of popular frameworks like React, Next.js, and Express. My proficiency extends to working with various databases, including SQL, PostgreSQL, Redis, and MongoDB. Additionally, I am well-versed in utilizing Jest and Supertest for comprehensive testing.
+I'm an experienced full-stack developer specializing in JavaScript development with TypeScript and Node.js. I have a strong command of popular frameworks like React, Next.js, and Express. My proficiency extends to working with various databases, including SQL, PostgreSQL, Redis, and MongoDB. Additionally, I am well-versed in utilizing Jest and Supertest for comprehensive testing.
 
 # 💻 Tech Stack:
 
