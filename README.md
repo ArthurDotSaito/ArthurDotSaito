@@ -60,7 +60,7 @@ Feel free to reach out to me using any of the following options:
 # 📊 Stats
 <section align="center">
  
- [![card](https://github-readme-stats-git-master-arthurdotsaito.vercel.app/api?username=ArthurDotSaito&theme=tokyonight)](http://github-readme-stats-git-master-arthurdotsaito.vercel.app/) </br>
+ [![card](https://github-readme-stats-git-master-arthurdotsaito.vercel.app/api?username=ArthurDotSaito&theme=tokyonight&show_icons=true)](http://github-readme-stats-git-master-arthurdotsaito.vercel.app/) </br>
  [![ArthurDotSaito](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurDotSaito&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
  
 </section>
