@@ -1,10 +1,10 @@
 <h1 align="center">Keep Moving Forward</h1>
 
 # 👋  Hello There
-Hey there! I'm Arthur Saito, a software developer and engineer (I'm mechanical engineer!). As a software engineer, I am always immersed in thrilling projects and constantly exploring various technologies. You'll often find me writing multiple lines of code, eager to tackle new challenges and build innovative solutions.
+Hey there! I'm Arthur Saito, a software developer and engineer (I'm mechanical engineer!).I am always immersed in thrilling projects and exploring technologies, so you'll often find me writing multiple lines of code, eager to tackle new challenges, contribute in projects and build solutions. I'm currently working as a Software Architect in Nuria S.A.
 
 # 🚀 Expertise 
-I'm an experienced full-stack developer specializing in JavaScript development with TypeScript, Node.js and object oriented languages such as C# and Java. I have a strong command of popular libraries like React, Next.js, Express and frameworks such as Angular, NestJS, .NET and Spring. My proficiency extends to working with various databases, including SQL, PostgreSQL, Redis, and MongoDB. Additionally, I am well-versed in utilizing Jest and Supertest for comprehensive testing and Docker & Kubernetes to work with containers and clusters, most of it to deploy microservices.
+I'm an experienced full-stack developer specializing in JavaScript development with TypeScript, Node.js and object oriented languages such as C# and Java. I have a knowledge in popular libraries like React, Next.js, Express and frameworks such as Angular, NestJS, .NET Framework and Spring. My proficiency extends to working with various databases, including MySQL, PostgresSQL, Redis, and MongoDB. Additionally, I am well-versed in write unit/integration tests and often use Docker & Kubernetes to work with containers and clusters, most of it to deploy microservices on any Cloud Platform - AWS, Azure or GCP.
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
@@ -14,6 +14,7 @@ I'm an experienced full-stack developer specializing in JavaScript development w
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) 
@@ -33,7 +34,7 @@ I'm an experienced full-stack developer specializing in JavaScript development w
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
-![AWS EC2](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
 ![Octave](https://img.shields.io/badge/Octave-0790C0.svg?style=for-the-badge&logo=Octave&logoColor=white)
 
 # 📫 Contact me
@@ -49,7 +50,6 @@ Feel free to reach out to me using any of the following options:
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![numPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
