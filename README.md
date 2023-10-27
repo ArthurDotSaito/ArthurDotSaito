@@ -6,6 +6,8 @@ Hey there! I'm Arthur Saito, a software developer and engineer (I'm mechanical e
 # 🚀 Expertise 
 I'm an experienced full-stack developer specializing in JavaScript development with TypeScript, Node.js and object oriented languages such as C# and Java. I have a knowledge in popular libraries like React, Next.js, Express and frameworks such as Angular, NestJS, .NET Framework and Spring. My proficiency extends to working with various databases, including MySQL, PostgresSQL, Redis, and MongoDB. Additionally, I am well-versed in write unit/integration tests and often use Docker & Kubernetes to work with containers and clusters, most of it to deploy microservices on any Cloud Platform - AWS, Azure or GCP.
 
+Sometimes I play with computer graphics with GLSL or WebGL.
+
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
