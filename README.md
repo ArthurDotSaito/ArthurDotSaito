@@ -61,8 +61,12 @@ Feel free to reach out to me using any of the following options:
 
 # 📊 Stats
 <section align="center">
- 
- [![card](https://github-readme-stats-git-master-arthurdotsaito.vercel.app/api?username=ArthurDotSaito&theme=tokyonight&show_icons=true)](http://github-readme-stats-git-master-arthurdotsaito.vercel.app/) </br>
- [![ArthurDotSaito](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurDotSaito&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ <a href="http://github-readme-stats-git-master-arthurdotsaito.vercel.app/">
+  <img height=200 align="center" src="https://github-readme-stats-git-master-arthurdotsaito.vercel.app/api?username=ArthurDotSaito&theme=tokyonight&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurDotSaito&hide=html&layout=compact&theme=tokyonight&langs_count=8&card_width=320" />
+</a>
+
  
 </section>
