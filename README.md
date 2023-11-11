@@ -4,9 +4,9 @@
 Hey there! I'm Arthur Saito, a software developer and engineer (I'm mechanical engineer!).I am always immersed in thrilling projects and exploring technologies, so you'll often find me writing multiple lines of code, eager to tackle new challenges, contribute in projects and build solutions. I'm currently working as a Software Architect in Nuria S.A.
 
 # 🚀 Expertise 
-I'm an experienced full-stack developer specializing in JavaScript development with TypeScript, Node.js and object oriented languages such as C# and Java. I have a knowledge in popular libraries like React, Next.js, Express and frameworks such as Angular, NestJS, .NET Framework and Spring. My proficiency extends to working with various databases, including MySQL, PostgresSQL, Redis, and MongoDB. Additionally, I am well-versed in write unit/integration tests and often use Docker & Kubernetes to work with containers and clusters, most of it to deploy microservices on any Cloud Platform - AWS, Azure or GCP.
+I'm an experienced developer with more experience in JavaScript/TypeScript with Node.js and object oriented languages such as C# and Java. I have a knowledge in popular libraries like React, Express and frameworks such as Angular, Next.js NestJS, .NET Framework and Spring. My proficiency extends to working with various databases, including MySQL, PostgresSQL, Redis, and MongoDB. Additionally, I am well-versed in write unit/integration tests and often use Docker & Kubernetes to work with containers and clusters, most of it to deploy microservices on any Cloud Platform - AWS, Azure or GCP.
 
-Sometimes I play with computer graphics with GLSL or WebGL.
+Sometimes I play with computer graphics with GLSL or WebGL and I'm currently learning Go.
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
