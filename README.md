@@ -1,7 +1,8 @@
 <h1 align="center">Keep Moving Forward</h1>
 
 # 👋  Hello There
-Hey there! I'm Arthur Saito, a software developer and engineer (I'm mechanical engineer!).I am always immersed in thrilling projects and exploring technologies, so you'll often find me writing multiple lines of code, eager to tackle new challenges, contribute in projects and build solutions. I'm currently working as a Software Architect in Nuria S.A.
+Hey there! I'm Arthur Saito, a software developer and engineer (I'm mechanical engineer!). I'm continually involved in projects and exploring new technologies. Typically, I'm coding, ready to address new solutions, contribute to projects, and develop systems. I currently serve as a Software Architect at Nuria S.A / Microsoft and trying to complete my master's degree in UCL.
+My current interests are: Compilers, low level coding languages and interactive computer graphics.
 
 # 🚀 Expertise 
 I'm an experienced developer with more experience in JavaScript/TypeScript with Node.js and object oriented languages such as C# and Java. I have a knowledge in popular libraries like React, Express and frameworks such as Angular, Next.js NestJS, .NET Framework and Spring. My proficiency extends to working with various databases, including MySQL, PostgresSQL, Redis, and MongoDB. Additionally, I am well-versed in write unit/integration tests and often use Docker & Kubernetes to work with containers and clusters, most of it to deploy microservices on any Cloud Platform - AWS, Azure or GCP.
