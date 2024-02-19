@@ -62,10 +62,10 @@ Feel free to reach out to me using any of the following options:
 
 # 📊 Stats
 <section align="center">
- <a href="http://github-readme-stats-git-master-arthurdotsaito.vercel.app/">
+ <a href="https://github.com/ArthurDotSaito">
   <img height=200 align="center" src="https://github-readme-stats-git-master-arthurdotsaito.vercel.app/api?username=ArthurDotSaito&theme=dracula&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/ArthurDotSaito">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurDotSaito&hide=html&layout=compact&theme=dracula&langs_count=8&card_width=320" />
 </a>
  
