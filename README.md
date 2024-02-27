@@ -7,8 +7,8 @@ My current interests are: Compilers, low level coding languages and interactive 
 # 🚀 Expertise 
 I'm an developer with experience in JavaScript/TypeScript with Node.js and object oriented languages such as C# and Java. I have a knowledge in popular libraries like React, Express and frameworks such as Angular, Next.js NestJS, .NET Framework and Spring. My proficiency extends to working with various databases, including MySQL, PostgresSQL, Redis, and MongoDB. Additionally, I am well-versed in infrastructure and cloud architecture tools, such as Consul, Istio, Docker, Kubernetes, Kong, Terraform and more. 
 
-Sometimes I work with operational system tools, playing with basic Assembly Kernels or building simple compilers and/or memory meneagers.
-Sometimes I play with computer graphics with GLSL or WebGL and I'm currently learning Go.
+Sometimes I work with operational system tools, building simple compilers, memory meneagers and basic assembly kernels.
+Sometimes I play with computer graphics with GLSL or WebGL.
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white)
