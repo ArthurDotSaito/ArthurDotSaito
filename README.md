@@ -2,7 +2,7 @@
 
 # 👋  Hello There
 Hey there! I'm Arthur Saito, a software developer and engineer (I'm mechanical engineer!). I'm continually involved in projects and exploring new technologies. Typically, I'm coding, ready to address new solutions, contribute to projects, and develop systems. I currently serve as a Software Architect at Nuria S.A / Microsoft and trying to complete my master's degree in UCL.
-My current interests are: Compilers, low level coding languages and interactive computer graphics.
+My current interests are: Compilers, processor architecture and interactive computer graphics.
 
 # 🚀 Expertise 
 I'm an developer with experience in JavaScript/TypeScript with Node.js and object oriented languages such as C# and Java. I have a knowledge in popular libraries like React, Express and frameworks such as Angular, Next.js NestJS, .NET Framework and Spring. My proficiency extends to working with various databases, including MySQL, PostgresSQL, Redis, and MongoDB. Additionally, I am well-versed in infrastructure and cloud architecture tools, such as Consul, Istio, Docker, Kubernetes, Kong, Terraform and more. 
