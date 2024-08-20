@@ -1,6 +1,4 @@
 <h1 align="center">Keep Moving Forward</h1>
-
-# 👋  Hello There
 Hey there! I'm Arthur Saito, a software developer and engineer (I'm mechanical engineer!). I'm continually involved in projects and exploring new technologies. Typically, I'm coding, ready to address new solutions, contribute to projects, and develop systems. I currently serve as a Software Architect at Nuria S.A and trying to complete my master's degree in UCL.
 My current interests are: Compilers, Operating Systems and databases.
 
