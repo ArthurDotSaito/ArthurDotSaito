@@ -3,7 +3,7 @@ Hey there! I'm Arthur Saito, a software developer and engineer (I'm mechanical e
 
 My current interests are: Compilers, Operating Systems and databases.
 
-I'm an developer with experience in JavaScript/TypeScript/Node and object oriented languages such as C# and Java. I have a knowledge in popular libraries like React, Express and frameworks such as Angular, Next.js NestJS, .NET Framework and Spring. My proficiency extends to working with various databases, including MySQL, PostgresSQL, Redis, and MongoDB. Additionally, I am well-versed in infrastructure and cloud architecture tools, such as Consul, Istio, Docker, Kubernetes, Kong, Terraform and more. 
+I have experience with JavaScript/TypeScript/Node and object oriented languages such as C# and Java. I have a knowledge in popular libraries like React, Express and frameworks such as Angular, Next.js NestJS, .NET Framework and Spring. My proficiency extends to working with various databases, including MySQL, PostgresSQL, Redis, and MongoDB. Additionally, I am well-versed in infrastructure and cloud architecture tools, such as Consul, Istio, Docker, Kubernetes, Kong, Terraform and more. 
 
 # 📫 Contact me
 
