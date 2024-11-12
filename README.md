@@ -3,6 +3,7 @@ Hey there! I'm Arthur Saito, a software developer and engineer (I'm mechanical e
 I currently serve as a Software Architect at Nuria S.A and trying to complete my master's degree in UCL.
 
 My current interests are: Compilers, operating systems, databases and distributed systems. 
+
 Also, I like to learn new languages (Yes, programming and human languages).
 
 # 📫 Contact me
